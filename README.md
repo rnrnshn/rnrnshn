@@ -1,5 +1,5 @@
 # Olimpio Adolfo
-### Frontend engineer
+### Frontend engineer | Founder - Maputo Frontenders
 
 
 
