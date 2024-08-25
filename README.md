@@ -5,9 +5,9 @@
 
  <a align="left" href="mailto:lukemorales+github@live.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/lukemorales" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/lukemorales" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 
-⚐ Based in Sao Paulo, Brazil
+⚐ Based in Maputo, Mozambique
 
-ϟ Currently building type-safe systems
+ϟ Crafting remarkable digital experiences
 
 
  ## Skills
